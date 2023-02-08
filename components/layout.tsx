@@ -14,7 +14,6 @@ export default function Layout({
   children: any;
   home: boolean;
 }) {
-  console.log(children);
   const name = "Your Name";
 
   return (
